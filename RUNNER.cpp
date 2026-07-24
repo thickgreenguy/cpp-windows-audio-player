@@ -7,7 +7,7 @@
 int main()
 {
     std::cout << "Playing music \n";
-    PlaySound(TEXT("FAT_LOVE.wav"), NULL, SND_FILENAME | SND_SYNC);
+    PlaySound(TEXT("LALALA.wav"), NULL, SND_FILENAME | SND_SYNC);
     std::cout << "Music over \n";
 
     return 0;
